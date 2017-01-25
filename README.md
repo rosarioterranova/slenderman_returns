@@ -14,5 +14,5 @@ Slender Man Returns is a software project for the course of "Digital Game Develo
 ##Screenshoot
 https://github.com/rosarioterranova/slenderman_returns/tree/master/Screenshots
 
-##Download build for Windows dekstop
+##Download build for Windows desktop
 https://github.com/rosarioterranova/slenderman_returns/raw/master/Build/Slenderman%20Returns%20v1.0%20alpha.rar
