@@ -11,7 +11,7 @@ Slender Man Returns is a software project for the course of "Digital Game Develo
 - **Game Engine**: Unity 4
 - **Programming language**: C#
 
-##Screenshoot
+##Screenshots
 https://github.com/rosarioterranova/slenderman_returns/tree/master/Screenshots
 
 ##Download build for Windows desktop
