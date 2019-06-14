@@ -1,3 +1,6 @@
+# Slenderman Returns
+This is my first videogame ever realized using Unity 4.
+
 # Description
 Slender Man Returns is an psychological horror indie game, based on an urban legend about a murderous creature called Slender Man.
 
